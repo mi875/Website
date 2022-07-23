@@ -1,64 +1,64 @@
 ---
 # Global
 # footer.tsx
-overview:
-home:
-features:
-downloads:
-external links:
+overview: 概要
+home: ホーム
+features: 機能
+downloads: ダウンロード
+external links: 外部リンク
 twitter:
 github:
 youtube:
 discord:
 reddit:
-legal:
-license:
+legal: 法的情報
+license: ライセンス
 eula:
-history of incidents:
-privacy and security:
+history of incidents:　歴史
+privacy and security: プライバシーとセキュルティー
 inspired by [%a][%b]avdan[%b][%a]:
-avdanos contributors:
+avdanos contributors: avdanosの開発者
 # alert.tsx
-is still in development.:
-join our discord!:
+is still in development.: 現在開発中です
+join our discord!: discordに参加する
 # menu.tsx / submenu.tsx
 # "home" is in footer.tsx
 # "features" is in footer.tsx
 # "downloads" is in footer.tsx
-support:
-documentation:
-docs:
-demo:
+support: サポート
+documentation: ガイド
+docs: ガイド
+demo: デモ
 
 # index.tsx
-your pc but even better!:
-try in your browser:
-download now!:
+your pc but even better!: あなたのPCが、もっと良くなる
+try in your browser: ブラウザで試す
+download now!: 今すぐダウンロード
 # discover.tsx
-open source on github:
-browse all repos:
+open source on github: オープンソース
+browse all repos: 全てのリポジトリを見る
 # discoverCard.tsx
 avdanos:
-meet avdanos, refining the way we think about operating systems.:
-official website:
-all the new updates and information about avdanos and support.:
-desktop environment:
-meet nadva, the official desktop environment for avdanos.:
-a discord bot made for the avdanos community discord server.:
+meet avdanos, refining the way we think about operating systems.: OSに対する考え方が変わる
+official website: 公式サイト
+all the new updates and information about avdanos and support.: アップデートやサポートなどavdanosに関する情報を公開しています
+desktop environment: デスクトップ環境
+meet nadva, the official desktop environment for avdanos.: nadvaはavdanosの公式デスクトップ環境です
+a discord bot made for the avdanos community discord server.: avdanosのdiscordサーバーのために作られたdiscordボットです
 
 # features-beta.tsx / features.tsx
 avdan's concept, we're making it real!:
-assets are loading, please wait:
-scroll down to see what we've got here:
-this concept video is made by avdan:
-watch on youtube:
-familiar dock, ultimate form:
-everyone knows dock/task bar. we got a brand new dock, with more features than ever before.:
-brand new launch menu:
-with everything in one place, do anything anywhere at anytime.:
-easily apply layout:
-with a list of presets determined from you apps, easily get to work with the perfect window layout. not enough? change it in the settings.:
-overpowered dock:
+assets are loading, please wait: 読み込み中...
+scroll down to see what we've got here: スクロールしてください
+this concept video is made by avdan: このコンセプトビデオはavdanが作りました。
+watch on youtube: YouTubeで見る
+familiar dock, ultimate form: 使い慣れたドックに究極のフォルムを
+everyone knows dock/task bar. we got a brand new dock, with more features than ever before.: お馴染みのドック/タスクバーを全く新しいものにしました。
+brand new launch menu: 全く新しいメニュー
+with everything in one place, do anything anywhere at anytime.: 全てがここに。いつでも、どこでも、何でも。
+easily apply layout: レイアウトを簡単に設定
+with a list of presets determined from you apps, easily get to work with the perfect window layout. not enough? change it in the settings.: アプリからのおすすめや完璧なウィンドウレイアウトで簡単に作業できます。物足りないですか？簡単に設定で変更できます。
+overpowered dock: 
 your dock can do more than ever. it's your ultimate manager to get you organised.: Your dock can do more than ever. It's your ultimate manager to get you organized.
 new way to manage files:
 this file manager keeps you organised and productive. find your files the instant you need it.: This file manager keeps you organized and productive. Find your files the instant you need it.
@@ -74,13 +74,13 @@ your os, your preference:
 we give you control over your system. theme is just an important one of them, and you can get more if you don't like ours.:
 day & night:
 let different themes tell you what time it is. hey, you can even make it reversed. can you do it on windows or macos?:
-under development:
-this project wouldn't be possible without the community's contributions. join us and help!:
-open demo:
+under development: 開発中です
+this project wouldn't be possible without the community's contributions. join us and help!: あなたの助けが必要です。協力して下さいませんか？
+open demo: デモを試す
 
 # download.tsx
-this download is not available yet.:
-give your pc an upgrade.:
+this download is not available yet.: 現在ダウンロード出来ません
+give your pc an upgrade.: 
 # "try in your browser" is in index.tsx section
 # "open demo" is in features-beta.tsx section
 for most people:
